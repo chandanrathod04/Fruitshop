@@ -23,12 +23,12 @@ body, html {
 
 .remove-btn {
     border: none;
-    background: rgb(255, 68, 68);
+    background: rgb(109, 68, 255);
     color: white;
 }
 
 .remove-btn:hover {
-    background: rgb(194, 50, 50);
+    background: rgb(144, 194, 50);
     color: white;
 }
 
